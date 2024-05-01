@@ -9,3 +9,4 @@ Stay ahead of the curve with our curated collection of daily ML/DL articles. Exp
 6. **imp.** Improved Training of Wasserstein GANs, provide methods for WGANs ex: gradient penalty, weight clipping.[see, 2017](https://arxiv.org/pdf/1704.00028)
 7. From Gan to WGAN [great explanation](https://lilianweng.github.io/posts/2017-08-20-gan/)
 8. How to Overcome GANs issues with improved GANs various methods **video explanation**[see](https://www.youtube.com/watch?v=RdC4XeExDeY)
+9. Conditional Gans [CGANs, 2014](https://arxiv.org/pdf/1411.1784)
