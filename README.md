@@ -10,3 +10,4 @@ Stay ahead of the curve with our curated collection of daily ML/DL articles. Exp
 7. From Gan to WGAN [great explanation](https://lilianweng.github.io/posts/2017-08-20-gan/)
 8. How to Overcome GANs issues with improved GANs various methods **video explanation**[see](https://www.youtube.com/watch?v=RdC4XeExDeY)
 9. Conditional Gans [CGANs, 2014](https://arxiv.org/pdf/1411.1784)
+10. Interpreting the Latent Space of GANs for Semantic Face Editing [2020](https://arxiv.org/pdf/1907.10786)
