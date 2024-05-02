@@ -12,3 +12,4 @@ Stay ahead of the curve with our curated collection of daily ML/DL articles. Exp
 9. Conditional Gans [CGANs, 2014](https://arxiv.org/pdf/1411.1784)
 10. Interpreting the Latent Space of GANs for Semantic Face Editing [2020](https://arxiv.org/pdf/1907.10786)
 11. **Inception Score** [2018](https://arxiv.org/pdf/1801.01973)
+12. **HYPE**, [2019](https://arxiv.org/pdf/1904.01121)
