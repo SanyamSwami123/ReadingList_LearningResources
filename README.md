@@ -16,3 +16,4 @@ Stay ahead of the curve with our curated collection of daily ML/DL articles. Exp
 13. InceptionNet Image Classifier, check out the [blog](https://sh-tsang.medium.com/review-inception-v3-1st-runner-up-image-classification-in-ilsvrc-2015-17915421f77c)
 14. Improved Precision and Recall Metric for Assessing Generative Models, [2019](https://arxiv.org/abs/1904.06991)
 15. Large Scale GAN Training for High Fidelity Natural Image Synthesis [2019](https://arxiv.org/abs/1809.11096)
+16. inceptionnet versions and differences [see](https://sh-tsang.medium.com/review-inception-v3-1st-runner-up-image-classification-in-ilsvrc-2015-17915421f77c)
