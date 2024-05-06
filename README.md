@@ -17,3 +17,6 @@ Stay ahead of the curve with our curated collection of daily ML/DL articles. Exp
 14. Improved Precision and Recall Metric for Assessing Generative Models, [2019](https://arxiv.org/abs/1904.06991)
 15. Large Scale GAN Training for High Fidelity Natural Image Synthesis [2019](https://arxiv.org/abs/1809.11096)
 16. inceptionnet versions and differences [see](https://sh-tsang.medium.com/review-inception-v3-1st-runner-up-image-classification-in-ilsvrc-2015-17915421f77c)
+17. A Deep Survey On **Bias and Fairness in Machine Learning** [see](https://arxiv.org/pdf/1908.09635)
+18. **Improved Techniques for Training Score-Based
+Generative Models** [see](https://arxiv.org/pdf/2006.09011)
