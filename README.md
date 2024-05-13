@@ -20,4 +20,4 @@ Stay ahead of the curve with our curated collection of daily ML/DL articles. Exp
 17. A Deep Survey On **Bias and Fairness in Machine Learning** [see](https://arxiv.org/pdf/1908.09635)
 18. **Improved Techniques for Training Score-Based
 Generative Models** [see](https://arxiv.org/pdf/2006.09011)
-19. Article on Bias vs fairness issues [see](https://www.theverge.com/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias)
+19. Article on **Bias vs fairness** issues [see](https://www.theverge.com/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias)
