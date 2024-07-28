@@ -1,1 +1,22 @@
+refer the paper [ATTENTIOIN ALL I NEED](https://arxiv.org/pdf/1706.03762)
+
+key points:
+1. transformer is the neural network.
+2. 
+
+SUMMARY:
+
+abstract: 
+The paper introduces the Transformer model, a novel neural network architecture for sequence transduction tasks such as machine translation. Unlike traditional models that use complex recurrent or convolutional neural networks with both encoders and decoders, the Transformer relies entirely on attention mechanisms. This design eliminates the need for recurrence and convolutions, making the model simpler and more efficient.
+
+Key findings from the paper include:
+
+Performance: The Transformer outperforms existing models on machine translation tasks. It achieved a BLEU score of 28.4 on the English-to-German translation task and 41.8 on the English-to-French translation task. These scores surpass previous best results, including ensemble models.
+
+Efficiency: The Transformer is more parallelizable, which leads to faster training times. For example, it reached the high BLEU score in just 3.5 days on eight GPUs, which is a significant reduction in training time compared to earlier models.
+
+Generalization: The Transformer model also performs well on other tasks, such as English constituency parsing, demonstrating its versatility and effectiveness across different types of data.
+
+Overall, the Transformer offers a simpler and more efficient alternative to traditional sequence transduction models, setting new standards in machine translation and other NLP tasks.
+
 
